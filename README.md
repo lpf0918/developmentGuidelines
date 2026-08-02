@@ -1,2 +1,2 @@
 # developmentGuidelines
-前端开发规范
+前端团队开发规范
